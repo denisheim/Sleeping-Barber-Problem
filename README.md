@@ -48,16 +48,20 @@ Example: If you have 3 waiting chairs, 10 total customers, and a barber who take
 
 ## To start the program:
 
-Use this command in the terminal.
+Use these command in the terminal.
+
+To install PyQt5 use the command:
+```mermaid
+python -m pip install pyqt5
+```
+
+This is essential before launching the simulation.
+
+To launch the simulation use the command:
 ```mermaid
 python src/main.py --config config.json
 ```
 
-or
-
-```mermaid
-python3 src/main.py --config config.json
-```
 
 ## Sources of Information:
 
