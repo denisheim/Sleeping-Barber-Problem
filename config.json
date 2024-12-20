@@ -1,0 +1,13 @@
+{
+  "barber_shop": {
+    "num_waiting_chairs": 2,
+    "customer_arrival_time_min": 2.5,
+    "customer_arrival_time_max": 3.0,
+    "barber_cut_time_min": 3.0,
+    "barber_cut_time_max": 4.0,
+    "total_customers": 15
+  },
+  "logging": {
+    "log_level": "INFO"
+  }
+}
